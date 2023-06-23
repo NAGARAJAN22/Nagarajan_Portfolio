@@ -47,4 +47,11 @@
     opacity: 0.5;
 }
 
+@media (max-width: 575px) {
+    .img-xs {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
 
