@@ -1,0 +1,46 @@
+
+.btn-purple{
+    background-color: #8845f4;
+    color: white;
+    border-color: #8845f4;
+}
+
+.card .card-img-top:hover{
+    opacity: 0.8;
+}
+
+.bg-background{
+    background-color: #383939;
+}
+
+.card-img-top{
+    height: 100%;
+}
+
+.m-top{
+    margin-top: 100px;
+}
+
+.m-top-15{
+    margin-top: 150px;
+}
+
+.img-width{
+    max-width: 400px;
+    max-height: 250px;
+}
+
+.ps-xl-8{
+    padding-left:80px ;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.bg-muted{
+    background-color:black;
+    opacity: 0.5;
+}
+
+
